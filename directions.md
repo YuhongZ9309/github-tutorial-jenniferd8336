@@ -78,3 +78,5 @@ Don't forget to use [Google](http://www.google.com) if you get stuck!
 The purpose of this project is to synthesize your learning by creating a tutorial that someone else could hypothetically follow. Using Github as a platform for the tutorial is an extra bonus because it provides extra practice for YOU, the creator of the tutorial. _However_, many students in the past have expressed interest in creating the tutorial via a different platform, i.e. making a video. **You get to decide the platform**. Please browse these [Digital Artifact Tools](https://docs.google.com/spreadsheets/d/1-wI7-CuHMkZL3PkKwHnxVbfZbTSP6gqV2But1owgM-E/edit#gid=0) to consider an alternative platform to Github.
 
 Bottom line: the recommendation is that you use Github to make your **Github Tutorial**. But feel free to choose a different creation tool!
+
+Testing
